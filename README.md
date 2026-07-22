@@ -1,9 +1,7 @@
 - 👋 Hi everyone, I’m Luca.
   
-- 👀 I am interested in clinical pharmacy and research. 
+- 👀 I am interested in chemistry, pharmacy and python programming. 
   
-- 🌱 I am happy to collaborate on any scientific/medical projects.
+- 🌱 I am happy to collaborate on any scientific, medical or data science projects.
   
-- 📫 Reach out to me:
-  - via email at luca.morelli.2022@uni.strath.ac.uk or
-  - via Instagram @luca_mor3lli
+- 📫 Reach out to me via lucamorellilondon@gmail.com
